@@ -1,0 +1,19 @@
+.odd-class {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#special {
+    color: blue;
+    font-size: 36px;
+}
+
+.only-class {
+    font-size: 24px;
+}
+
+#other-special {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
